@@ -50,7 +50,7 @@ public class BaseDeDonneesTests {
 
         verify(voitureRepository).delete(v);
     }
-    
+
 
 
 }
